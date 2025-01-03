@@ -1,4 +1,4 @@
-name = "idgoogle"
+name = "idcloudtech"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -20,7 +20,7 @@ pattern = "zaintest.vuclip.com.idgc.vpnyubi.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "35.219.15.90:443"
+PROXYIP = "103.133.223.51:2096"
 UUID = "6004d59a-8e09-4eeb-b9fd-7c5221ac7c55"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
