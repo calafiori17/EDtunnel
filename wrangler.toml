@@ -1,26 +1,26 @@
-name = "idherza"
+name = "sgdo"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "idgc.vpnyubi.biz.id"
+pattern = "sg.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.idgc.vpnyubi.biz.id"
+pattern = "updates.netflix.com.sg.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.idgc.vpnyubi.biz.id"
+pattern = "quiz.int.vidio.com.sg.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "support.udemy.com.idgc.vpnyubi.biz.id"
+pattern = "support.udemy.com.sg.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.idgc.vpnyubi.biz.id"
+pattern = "zaintest.vuclip.com.sg.vpnyubi.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "103.168.146.169:20132"
+PROXYIP = "143.198.213.197:443"
 UUID = "6004d59a-8e09-4eeb-b9fd-7c5221ac7c55"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
