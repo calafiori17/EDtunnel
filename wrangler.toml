@@ -1,4 +1,4 @@
-name = "idtelkom"
+name = "idherza"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -20,7 +20,7 @@ pattern = "zaintest.vuclip.com.idgc.vpnyubi.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "36.95.152.58:12137"
+PROXYIP = "206.237.98.76:587"
 UUID = "6004d59a-8e09-4eeb-b9fd-7c5221ac7c55"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
