@@ -1,47 +1,47 @@
-name = "idptdeneva"
+name = "sgdo"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "id.vpnsabi.us.kg"
+pattern = "sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.id.vpnsabi.us.kg"
+pattern = "updates.netflix.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.id.vpnsabi.us.kg"
+pattern = "quiz.vidio.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "img.email1.vidio.com.id.vpnsabi.us.kg"
+pattern = "img.email1.vidio.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "www.udemy.com.id.vpnsabi.us.kg"
+pattern = "www.udemy.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.id.vpnsabi.us.kg"
+pattern = "zaintest.vuclip.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.id.vpnsabi.us.kg"
+pattern = "ava.game.naver.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "ir.huya.com.id.vpnsabi.us.kg"
+pattern = "ir.huya.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "investor.spotify.com.id.vpnsabi.us.kg"
+pattern = "investor.spotify.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "app.genflix.co.id.id.vpnsabi.us.kg"
+pattern = "app.genflix.co.id.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "investor.spotify.com.id.vpnsabi.us.kg"
+pattern = "investor.spotify.com.sg.vpnsabi.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "ruangguru.com.com.id.vpnsabi.us.kg"
+pattern = "ruangguru.com.com.sg.vpnsabi.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "8.218.107.145:31166"
+PROXYIP = "143.198.213.197:443"
 UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
