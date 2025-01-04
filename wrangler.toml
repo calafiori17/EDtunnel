@@ -1,4 +1,4 @@
-name = "idcloudtekno"
+name = "idtencent"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -41,7 +41,7 @@ pattern = "ruangguru.com.com.id.vpnsabi.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "103.133.223.51:2096"
+PROXYIP = "43.133.145.156:53136"
 UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
