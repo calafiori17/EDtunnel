@@ -1,4 +1,4 @@
-name = "idtelkom"
+name = "idcloudhost"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -41,7 +41,7 @@ pattern = "ruangguru.com.com.id.vpnsabi.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "36.95.152.58:12137"
+PROXYIP = "103.186.1.209:2053"
 UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
