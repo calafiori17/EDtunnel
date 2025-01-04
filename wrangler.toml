@@ -1,4 +1,4 @@
-name = "idakamai"
+name = "iddeneva"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -41,7 +41,7 @@ pattern = "ruangguru.com.com.id.vpnsabi.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "172.232.239.147:587"
+PROXYIP = "8.218.107.145:31166"
 UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
