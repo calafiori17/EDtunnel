@@ -1,11 +1,47 @@
-name = "cf-worker-ws-dev"
+name = "idtelkom"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
+[[routes]]
+pattern = "id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "updates.netflix.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "quiz.vidio.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "img.email1.vidio.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "www.udemy.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "zaintest.vuclip.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "ava.game.naver.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "ir.huya.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "investor.spotify.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "app.genflix.co.id.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "investor.spotify.com.id.vpnsabi.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "ruangguru.com.com.id.vpnsabi.us.kg"
+custom_domain = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+PROXYIP = "36.95.152.58:12137"
+UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
