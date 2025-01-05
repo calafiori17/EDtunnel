@@ -1,4 +1,4 @@
-name = "sgamazon"
+name = "sghuawei"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -41,7 +41,7 @@ pattern = "ruangguru.com.com.sg.vpnsabi.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "52.74.101.26:443"
+PROXYIP = "190.92.213.24:443"
 UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
