@@ -1,4 +1,4 @@
-name = "idgoogle2"
+name = "idherza"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -41,7 +41,7 @@ pattern = "ruangguru.com.id.vpnsabi.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "35.219.15.90:443"
+PROXYIP = "103.168.146.169:20132"
 UUID = "3dfdfaab-6a14-42a8-be7c-4c91dbee5ef5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
