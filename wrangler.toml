@@ -1,26 +1,47 @@
-name = "sgcf"
+name = "idalibaba"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "sg.vpnyubi.biz.id"
+pattern = "idali.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.sg.vpnyubi.biz.id"
+pattern = "updates.netflix.com.idali.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sg.vpnyubi.biz.id"
+pattern = "quiz.vidio.com.idali.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "support.udemy.com.sg.vpnyubi.biz.id"
+pattern = "img.email1.vidio.com.idali.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sg.vpnyubi.biz.id"
+pattern = "www.udemy.com.idali.vpnyubi.biz.id"
+custom_domain = true
+[[routes]]
+pattern = "zaintest.vuclip.com.idali.vpnyubi.biz.id"
+custom_domain = true
+[[routes]]
+pattern = "ava.game.naver.com.idali.vpnyubi.biz.id"
+custom_domain = true
+[[routes]]
+pattern = "ir.huya.com.idali.vpnyubi.biz.id"
+custom_domain = true
+[[routes]]
+pattern = "investor.spotify.com.idali.vpnyubi.biz.id"
+custom_domain = true
+[[routes]]
+pattern = "app.genflix.co.id.idali.vpnyubi.biz.id"
+custom_domain = true
+[[routes]]
+pattern = "ruangguru.com.com.idali.vpnyubi.biz.id"
+custom_domain = true
+[[routes]]
+pattern = "space.byu.id.idali.vpnyubi.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "158.178.240.232:10258"
+PROXYIP = "149.129.250.187:443"
 UUID = "6004d59a-8e09-4eeb-b9fd-7c5221ac7c55"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
