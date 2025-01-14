@@ -1,47 +1,47 @@
-name = "idalibaba"
+name = "iddeneva"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "idali.vpnyubi.biz.id"
+pattern = "idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.idali.vpnyubi.biz.id"
+pattern = "updates.netflix.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.idali.vpnyubi.biz.id"
+pattern = "quiz.vidio.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "img.email1.vidio.com.idali.vpnyubi.biz.id"
+pattern = "img.email1.vidio.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "www.udemy.com.idali.vpnyubi.biz.id"
+pattern = "www.udemy.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.idali.vpnyubi.biz.id"
+pattern = "zaintest.vuclip.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.idali.vpnyubi.biz.id"
+pattern = "ava.game.naver.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ir.huya.com.idali.vpnyubi.biz.id"
+pattern = "ir.huya.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "investor.spotify.com.idali.vpnyubi.biz.id"
+pattern = "investor.spotify.com.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "app.genflix.co.id.idali.vpnyubi.biz.id"
+pattern = "app.genflix.co.id.idneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ruangguru.com.com.idali.vpnyubi.biz.id"
+pattern = "ruangguru.com.com.idaneva.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "space.byu.id.idali.vpnyubi.biz.id"
+pattern = "space.byu.id.idneva.vpnyubi.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "149.129.250.187:443"
+PROXYIP = "8.218.107.145:31166"
 UUID = "6004d59a-8e09-4eeb-b9fd-7c5221ac7c55"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
