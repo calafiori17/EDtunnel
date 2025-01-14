@@ -1,47 +1,47 @@
-name = "sghuaweicloud"
+name = "sgcontabo"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "sghc.vpnyubi.biz.id"
+pattern = "sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.sghc.vpnyubi.biz.id"
+pattern = "updates.netflix.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.sghc.vpnyubi.biz.id"
+pattern = "quiz.vidio.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "img.email1.vidio.com.sghc.vpnyubi.biz.id"
+pattern = "img.email1.vidio.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "www.udemy.com.sghc.vpnyubi.biz.id"
+pattern = "www.udemy.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sghc.vpnyubi.biz.id"
+pattern = "zaintest.vuclip.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sghc.vpnyubi.biz.id"
+pattern = "ava.game.naver.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ir.huya.com.sghc.vpnyubi.biz.id"
+pattern = "ir.huya.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "investor.spotify.com.sghc.vpnyubi.biz.id"
+pattern = "investor.spotify.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "app.genflix.co.id.sghc.vpnyubi.biz.id"
+pattern = "app.genflix.co.id.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ruangguru.com.sghc.vpnyubi.biz.id"
+pattern = "ruangguru.com.sgct.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "space.byu.id.sghc.vpnyubi.biz.id"
+pattern = "space.byu.id.sgct.vpnyubi.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "166.108.233.26:443"
+PROXYIP = "62.72.46.14:8443"
 UUID = "6004d59a-8e09-4eeb-b9fd-7c5221ac7c55"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
