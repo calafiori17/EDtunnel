@@ -1,46 +1,34 @@
-name = "idcayagan"
+name = "idpusatmedia"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-# node_compat = true
+
 [[routes]]
-pattern = "idcg.vpnyubi.biz.id"
+pattern = "idpm.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.idcg.vpnyubi.biz.id"
+pattern = "updates.netflix.com.idpm.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.idcg.vpnyubi.biz.id"
+pattern = "quiz.vidio.com.idpm.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "img.email1.vidio.com.idcg.vpnyubi.biz.id"
+pattern = "img.email1.vidio.com.idpm.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "www.udemy.com.idcg.vpnyubi.biz.id"
+pattern = "zaintest.vuclip.com.idpm.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.idcg.vpnyubi.biz.id"
+pattern = "ava.game.naver.com.idpm.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.idcg.vpnyubi.biz.id"
+pattern = "ruangguru.com.com.idpm.vpnyubi.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ir.huya.com.idcg.vpnyubi.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "investor.spotify.com.idcg.vpnyubi.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "app.genflix.co.id.idcg.vpnyubi.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "ruangguru.com.com.idcg.vpnyubi.biz.id"
-custom_domain = true
-[[routes]]
-pattern = "bakrie.ac.id.idcg.vpnyubi.biz.id"
+pattern = "bakrie.ac.id.idpm.vpnyubi.biz.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "203.194.112.119:8443"
+PROXYIP = "103.6.207.108:8080"
 UUID = "6004d59a-8e09-4eeb-b9fd-7c5221ac7c55"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
